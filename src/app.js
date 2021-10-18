@@ -24,3 +24,5 @@ console.log("</ul>")
 
 console.log(konutKredileri)
 console.log(konutKredileriFiyat)
+
+console.log("deneme")
